@@ -1,0 +1,36 @@
+fuels can only be 'traded' for other fuels (requires fuel container)
+
+
+standard ee2 emc's
+
+** 1 EMC **
+dirt			--priority
+cobble			--priority
+stone
+sand
+grass
+grass block
+
+** 85 EMC **
+copper
+
+** 128 EMC **
+coal 					(fuel)
+
+** 144 EMC **
+coal coke 				(fuel)
+	
+** 256 EMC **
+iron
+tin
+** 512 EMC **
+silver
+bronze
+
+** 2048 EMC **
+gold
+
+** 4096 EMC **
+Uranium 				(fuel)
+
+
