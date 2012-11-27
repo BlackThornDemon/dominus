@@ -12,6 +12,7 @@ public class ServerPacketHandler implements IPacketHandler
 	public void onPacketData(INetworkManager manager, Packet250CustomPayload payload, Player player)
 	{ 
 		DataInputStream data = new DataInputStream(new ByteArrayInputStream(payload.data));
+		EntityPlayer sender = (EntityPlayer) player; 
 	}
 
 
